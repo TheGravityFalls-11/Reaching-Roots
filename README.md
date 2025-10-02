@@ -58,11 +58,11 @@ This project is a full-stack platform designed to digitize and optimize agricult
 
 ---
 
-## 📸 Screenshots
+## 📸 visualization
 
-_Add relevant screenshots of forms, dashboards, and predictions here._
+<img width="1919" height="1035" alt="Image" src="https://github.com/user-attachments/assets/a5b5f6e9-5c5f-470d-bac4-47fdab91878d" />
 
----
+<img width="1918" height="1044" alt="Image" src="https://github.com/user-attachments/assets/580ad563-6898-4c8f-86f5-d8f2eaef9c87" />
 
 ## 🤝 Contribution
 
